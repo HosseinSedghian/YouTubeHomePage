@@ -32,7 +32,7 @@ To view this project locally, follow these steps:
    ```bash
    cd YouTubeHomePage
    ```
-3. Open `index.html` in your web browser.
+3. Open `youtube.html` in your web browser.
 
 ## Usage
 Once you have cloned the repository and opened `index.html`, you can interact with the page as you would on YouTube. Feel free to modify the HTML and CSS files to customize your version.
