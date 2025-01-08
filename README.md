@@ -26,7 +26,7 @@ This project is a clone of the YouTube homepage created as part of the HTML and 
 To view this project locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HosseinSedghian/youtube-homepage-clone.git
+   git clone https://github.com/HosseinSedghian/YouTubeHomePage.git
    ```
 2. Navigate into the project directory:
    ```bash
