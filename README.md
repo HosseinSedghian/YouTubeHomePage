@@ -1,4 +1,4 @@
-# Project Title: YouTube Homepage Clone
+# YouTube Homepage Clone
 
 ## Description
 This project is a clone of the YouTube homepage created as part of the HTML and CSS course by SuperSimpleDev. The aim was to practice and apply the skills learned throughout the course, including layout design, styling, and responsive design techniques.
