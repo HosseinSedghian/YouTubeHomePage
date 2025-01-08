@@ -30,7 +30,7 @@ To view this project locally, follow these steps:
    ```
 2. Navigate into the project directory:
    ```bash
-   cd youtube-homepage-clone
+   cd YouTubeHomePage
    ```
 3. Open `index.html` in your web browser.
 
