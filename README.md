@@ -1,7 +1,8 @@
 # YouTube Homepage Clone
 
 ## Description
-This project is a clone of the YouTube homepage created as part of the HTML and CSS course by SuperSimpleDev. The aim was to practice and apply the skills learned throughout the course, including layout design, styling, and responsive design techniques.
+This project is a clone of the YouTube homepage created as part of [the HTML and CSS Course](https://www.youtube.com/watch?v=G3e-cpL7ofc)
+ by SuperSimpleDev. The aim was to practice and apply the skills learned throughout the course, including layout design, styling, and responsive design techniques.
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
@@ -39,13 +40,3 @@ Once you have cloned the repository and opened `youtube.html`, you can interact 
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or features, please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this README as needed to better fit your project's specifics!
-
-Citations:
-[1] https://www.youtube.com/watch?v=G3e-cpL7ofc
